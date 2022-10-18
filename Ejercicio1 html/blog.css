@@ -1,0 +1,54 @@
+.imagenes{
+    height: 20%;
+    width: 20%;
+    
+
+}
+#blog{
+
+    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align: center;
+    font-family: monospace;
+    width: 50%;
+    position: relative;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+#padre{
+    width: 100%;
+    position: relative;
+    height: 100%;
+    
+    text-align: center;
+}
+#hija{
+
+    width: 50%;
+    position: relative;
+    height: 2000px;
+    border: 2px rgb(0, 0, 0) solid;
+    margin: 20px auto;
+    text-align: center;
+    font-family: monospace;
+    overflow: scroll;
+    background-color: rgba(191, 214, 255, 0.74);
+    border-radius: 20px;
+
+}
+article{
+    font-size: xx-large;
+}
+aside{
+    font-size: xx-large
+}
+a{font-size: xx-large;}
+
+h2{
+    background-color:rgb(206, 129, 129);
+    width:50%;
+    text-align:center;
+    margin: 20px auto;
+    border-radius: 20px;
+}

@@ -1,7 +1,7 @@
 #padreblog{
     position: relative;
     width: 100%;
-    border: 2px blue solid;
+    
 
 }
 
@@ -19,21 +19,21 @@
 .imagenes{
     height: 20%;
     width: 20%;
-    border: 2px violet solid;
+    
 
 }
 #padremenu{
     position: relative;
     width: 100%;
-    height: 2000px;
-    border: 2px green solid;
+    height: 100%;
+    
 
 }
 #menu{
     border: 3px red solid;
     position: relative;
     width:50%;
-    height: 20%;
+    height: 350px;
     text-align: center;
     margin: 20px auto;
     font-family: monospace;
